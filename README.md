@@ -1,11 +1,13 @@
 # Loan Default Prediction  
 
 Machine learning project for loan default prediction using Logistic Regression, Random Forest, and XGBoost.  
+
 The project includes exploratory data analysis (EDA), feature engineering, hyperparameter tuning, model evaluation, and business interpretation.  
 
 ## Project Overview  
 
 This project develops machine learning models to predict loan default risk using borrower demographic, financial, and credit-related information.  
+
 The project workflow includes:  
 - Exploratory Data Analysis (EDA)  
 - Data Preprocessing  
